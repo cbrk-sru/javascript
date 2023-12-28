@@ -21,6 +21,6 @@ function calculateFactorial(number) {
 }
 
 // Example usage
-calculateFactorial(5); // Output: The factorial of 5 is 120.
-calculateFactorial(-2); // Output: Error: Factorial is not defined for negative numbers.
-calculateFactorial(3.5); // Output: Error: Factorial is not defined for floating-point numbers.
+calculateFactorial(6); // Output: The factorial of 5 is 120.
+calculateFactorial(-7); // Output: Error: Factorial is not defined for negative numbers.
+calculateFactorial(6.5); // Output: Error: Factorial is not defined for floating-point numbers.
